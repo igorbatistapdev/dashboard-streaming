@@ -54,7 +54,7 @@ A landing page apresenta o contexto, objetivo, metodologia e principais indicado
 O dashboard permite explorar os dados de forma interativa através de filtros, indicadores e visualizações.
 
 <p align="center">
-  <img src="imagens/dashboard.png" alt="Dashboard do projeto" width="850">
+  <img src="imagens/projeto.png" alt="Dashboard do projeto" width="850">
 </p>
 
 ### Principais recursos
