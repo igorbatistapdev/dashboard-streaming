@@ -14,9 +14,9 @@ A solução combina **análise exploratória, visualizações interativas e dash
     <img src="https://img.shields.io/badge/🌐%20Projeto-0D111C?style=for-the-badge&logoColor=38BDF8">
   </a>
 
-  <a href="LINK_DO_DASHBOARD">
-    <img src="https://img.shields.io/badge/📊%20Dashboard-0D111C?style=for-the-badge&logoColor=38BDF8">
-  </a>
+ <a href="https://dashboard-streaming.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%93%8A%20Dashboard-0D111C?style=for-the-badge&logoColor=38BDF8" alt="Dashboard">
+</a>
 
   <a href="LINK_DO_NOTEBOOK">
     <img src="https://img.shields.io/badge/📓%20Notebook-0D111C?style=for-the-badge&logoColor=38BDF8">
@@ -44,7 +44,7 @@ A análise utiliza uma base **simulada**, composta por:
 A landing page apresenta o contexto, objetivo, metodologia e principais indicadores da análise.
 
 <p align="center">
-  <img src="imagens/landing-page.png" alt="Landing Page do projeto" width="850">
+  <img src="imagens/site-streaming.png" alt="Landing Page do projeto" width="850">
 </p>
 
 ---
