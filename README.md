@@ -1,3 +1,9 @@
+> **Disciplina:** LINGUAGENS DE PROGRAMAÇÃO
+
+> **Professor:** Alexandre Neves Louzada
+
+> **Aluno:** Igor Batista Pereira
+
 # 🎬 Streaming Brasil Analytics
 
 > **Análise e visualização de dados sobre plataformas de streaming no Brasil.**
